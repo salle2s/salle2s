@@ -2,6 +2,7 @@ import pygame
 import random
 from game.constants import Constants
 
+# created pillars class
 class Pillars: 
     def __init__(self, sprite_group):
         self.sprite_group = sprite_group 
